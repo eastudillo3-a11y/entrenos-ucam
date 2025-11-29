@@ -1,1 +1,346 @@
+{
+  "items": [
+      {
+        "id": "3d3b2a98-2d3d-4f8c-8a77-8a5f4c11a111",
+        "title": "HIT en 10 minutos: abdominales",
+        "details": "Entrenamiento rápido orientado al core para activar el abdomen sin necesidad de material.",
+        "category": "hiit",
+        "state": "planned",
+        "colorTag": "orange",
+        "date": "2025-10-10T07:30:00Z",
+        "durationMinutes": 12,
+        "locationName": "Parque de Floridablanca",
+        "geo": { "latitude": 37.9809, "longitude": -1.1296 },
+        "tags": ["core", "principiante", "sin material"],
+        "intensity": 8,
+        "participants": ["Coach Alba"],
+        "links": {
+          "website": "https://tusitio.com/entrenos/hiit-20",
+          "youtube": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+          "image": "https://raw.githubusercontent.com/eastudillo3-a11y/entrenos-ucam/a74566ab0922e549e28c8ed2475d9b5e49b51ab2/images/hiit-001.jpg"
+        },
+        "properties": [
+          { "name": "nivel", "value": "Principiante", "changedAt": "2025-10-05T08:00:00Z" },
+          { "name": "material", "value": "Ninguno (esterilla opcional)", "changedAt": "2025-10-05T08:00:00Z" }
+        ]
+      },
+    {
+      "id": "a1111111-aaaa-1111-aaaa-111111111111",
+      "title": "Cross Training para el core",
+         "details": "Entrenamiento variado que mezcla fuerza y estabilidad con movimientos funcionales.",
+         "category": "hiit",
+         "state": "planned",
+         "colorTag": "orange",
+         "date": "2025-10-12T18:00:00Z",
+         "durationMinutes": 20,
+         "tags": ["core", "tren superior", "balón opcional"],
+         "participants": ["Coach Pita"],
+         "links": {
+           "website": "https://tusitio.com/entrenos/hiit-20",
+           "youtube": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+           "image": "https://raw.githubusercontent.com/eastudillo3-a11y/entrenos-ucam/refs/heads/main/images/hiit-002.jpg"
+         },
+         "properties": [
+           { "name": "nivel", "value": "Principiante", "changedAt": "2025-10-10T09:00:00Z" },
+           { "name": "material", "value": "Balón medicinal (opcional)", "changedAt": "2025-10-10T09:00:00Z" }
+         ]
+       },
+    {
+      "id": "a2222222-aaaa-2222-aaaa-222222222222",
+      "title": "Entrenamiento intenso de 5 minutos con peso corporal",
+      "details": "Sesión exprés sin material para activar todo el cuerpo en pocos minutos.",
+      "category": "hiit",
+      "state": "planned",
+      "colorTag": "orange",
+      "date": "2025-10-14T18:00:00Z",
+      "durationMinutes": 6,
+      "tags": ["peso corporal", "rápido", "principiante"],
+      "participants": ["Coach Alex"],
+      "links": {
+        "website": "https://tusitio.com/entrenos/hiit-20",
+        "youtube": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "image": "https://raw.githubusercontent.com/eastudillo3-a11y/entrenos-ucam/refs/heads/main/images/hiit-003.jpg"
+      },
+      "properties": [
+        { "name": "nivel", "value": "Principiante", "changedAt": "2025-10-12T10:00:00Z" },
+        { "name": "material", "value": "Ninguno", "changedAt": "2025-10-12T10:00:00Z" }
+      ]
+    },
+
+    {
+      "id": "a3333333-aaaa-3333-aaaa-333333333333",
+      "title": "Circuito de cuerpo completo con mancuerna",
+      "details": "Sesión completa con trabajo de fuerza, resistencia y estímulo metabólico.",
+      "category": "hiit",
+      "state": "planned",
+      "colorTag": "orange",
+      "date": "2025-10-16T19:30:00Z",
+      "durationMinutes": 38,
+      "tags": ["mancuernas", "fuerza", "intermedio"],
+      "participants": ["Coach Diego"],
+      "links": {
+        "website": "https://tusitio.com/entrenos/hiit-20",
+        "youtube": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "image": "https://raw.githubusercontent.com/eastudillo3-a11y/entrenos-ucam/refs/heads/main/images/hiit-004.jpg"
+      },
+      "properties": [
+        { "name": "nivel", "value": "Intermedio", "changedAt": "2025-10-14T11:00:00Z" },
+        { "name": "material", "value": "Mancuerna de peso medio", "changedAt": "2025-10-14T11:00:00Z" }
+      ]
+    },
+    {
+      "id": "a4444444-aaaa-4444-aaaa-444444444444",
+      "title": "Estabilidad de movimiento",
+      "details": "Entrenamiento de técnica, equilibrio y control para mejorar la postura y la estabilidad.",
+      "category": "hiit",
+      "state": "planned",
+      "colorTag": "orange",
+      "date": "2025-10-18T20:00:00Z",
+      "durationMinutes": 45,
+      "tags": ["estabilidad", "core", "movimiento"],
+      "participants": ["Coach Sara"],
+      "links": {
+        "website": "https://tusitio.com/entrenos/hiit-20",
+        "youtube": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "image": "https://raw.githubusercontent.com/eastudillo3-a11y/entrenos-ucam/refs/heads/main/images/hiit-005.jpg"
+      },
+      "properties": [
+        { "name": "nivel", "value": "Intermedio", "changedAt": "2025-10-16T10:00:00Z" },
+        { "name": "material", "value": "Balón medicinal o mancuerna ligera", "changedAt": "2025-10-16T10:00:00Z" }
+      ]
+    },
+
+    {
+      "id": "b1111111-bbbb-1111-bbbb-111111111111",
+      "title": "Moldeador del tren superior",
+      "details": "Utiliza la primera ronda de arranques de mancuerna para aprender el ejercicio. A continuación, intenta aumentar la intensidad incrementando el número de repeticiones por serie.",
+      "category": "fuerza",
+      "state": "planned",
+      "colorTag": "blue",
+      "date": "2025-10-12T10:00:00Z",
+      "durationMinutes": 25,
+      "locationName": "",
+      "geo": null,
+      "tags": ["tren superior", "fuerza", "intermedio"],
+      "participants": [],
+      "links": {
+        "website": "",
+        "youtube": "",
+        "image": "https://raw.githubusercontent.com/eastudillo3-a11y/entrenos-ucam/refs/heads/main/images/fuerza-001.jpg"
+      },
+      "properties": [
+        { "name": "nivel", "value": "Intermedio" },
+        { "name": "material", "value": "Mancuernas ligeras, mancuernas de peso medio, mancuernas" }
+      ]
+    },
+    {
+      "id": "b2222222-bbbb-2222-bbbb-222222222222",
+      "title": "Quemador de cuerpo completo con mancuerna",
+      "details": "Puedes cambiar el burpee con una sola pierna si lo necesitas, pero cae siempre haciendo una plancha fuerte y coloca el pie con el que saltas entre las manos cuando vuelvas a impulsarte hacia arriba.",
+      "category": "fuerza",
+      "state": "planned",
+      "colorTag": "blue",
+      "date": "2025-10-12T10:00:00Z",
+      "durationMinutes": 29,
+      "locationName": "",
+      "geo": null,
+      "tags": ["fuerza", "resistencia", "glúteos"],
+      "participants": [],
+      "links": {
+        "website": "",
+        "youtube": "",
+        "image": "https://raw.githubusercontent.com/eastudillo3-a11y/entrenos-ucam/refs/heads/main/images/fuerza-002.jpg"
+      },
+      "properties": [
+        { "name": "nivel", "value": "Intermedio" },
+        { "name": "material", "value": "Mancuernas" }
+      ]
+    },
+    {
+      "id": "b3333333-bbbb-3333-bbbb-333333333333",
+      "title": "Abdominales perfectos",
+      "details": "Entrenamiento centrado en activar el core de forma controlada, mejorar la postura y fortalecer toda la zona abdominal con movimientos simples y efectivos.",
+      "category": "fuerza",
+      "state": "planned",
+      "colorTag": "blue",
+      "date": "2025-10-12T10:00:00Z",
+      "durationMinutes": 20,
+      "locationName": "",
+      "geo": null,
+      "tags": ["core", "principiante"],
+      "participants": [],
+      "links": {
+        "website": "",
+        "youtube": "",
+        "image": "https://raw.githubusercontent.com/eastudillo3-a11y/entrenos-ucam/refs/heads/main/images/fuerza-003.jpg"
+      },
+      "properties": [
+        { "name": "nivel", "value": "Principiante" },
+        { "name": "material", "value": "Ninguno" }
+      ]
+    },
+    {
+      "id": "b4444444-bbbb-4444-bbbb-444444444444",
+      "title": "Finisher de planchas de 5 minutos",
+      "details": "Los ejercicios como los impulsos de rodilla en plancha lateral y las planchas laterales ayudan a fortalecer las zonas laterales del cuerpo, algo esencial para aumentar la fuerza y mejorar el equilibrio del cuerpo completo.",
+      "category": "fuerza",
+      "state": "planned",
+      "colorTag": "blue",
+      "date": "2025-10-12T10:00:00Z",
+      "durationMinutes": 7,
+      "locationName": "",
+      "geo": null,
+      "tags": ["core", "intermedio"],
+      "participants": [],
+      "links": {
+        "website": "",
+        "youtube": "",
+        "image": "https://raw.githubusercontent.com/eastudillo3-a11y/entrenos-ucam/refs/heads/main/images/fuerza-004.jpg"
+      },
+      "properties": [
+        { "name": "nivel", "value": "Intermedio" },
+        { "name": "material", "value": "Ninguno" }
+      ]
+    },
+    {
+        "title": "Tonificador rápido de glúteos",
+        "details": "Haz pasos de pato laterales mientras aprietas los glúteos manteniendo la postura baja durante todo el ejercicio y las rodillas hacia fuera.",
+        "category": "fuerza",
+        "state": "planned",
+        "colorTag": "blue",
+        "date": "2025-10-12T10:00:00Z",
+        "durationMinutes": 25,
+        "locationName": "",
+        "geo": null,
+        "tags": ["glúteos", "principiante"],
+        "participants": [],
+        "links": {
+          "website": "",
+          "youtube": "",
+          "image": "https://raw.githubusercontent.com/eastudillo3-a11y/entrenos-ucam/refs/heads/main/images/fuerza-005.jpg"
+        },
+        "properties": [
+          { "name": "nivel", "value": "Principiante" },
+          { "name": "material", "value": "Ninguno" }
+        ]
+      },
+
+    {
+      "id": "c1111111-cccc-1111-cccc-111111111111",
+      "title": "Fluye y medita",
+      "details": "Una sesión suave para conectar respiración y movimiento, ideal para relajar la mente y liberar tensión acumulada.",
+      "category": "yoga",
+      "state": "planned",
+      "colorTag": "purple",
+      "date": "2025-10-12T10:00:00Z",
+      "durationMinutes": 10,
+      "locationName": "",
+      "geo": null,
+      "tags": ["relajante", "mindfulness", "principiante"],
+      "participants": [],
+      "links": {
+        "website": "",
+        "youtube": "",
+        "image": "https://raw.githubusercontent.com/eastudillo3-a11y/entrenos-ucam/refs/heads/main/images/yoga-001.jpg"
+      },
+      "properties": [
+        { "name": "nivel", "value": "Principiante" },
+        { "name": "material", "value": "Ninguno (esterilla opcional)" }
+      ]
+    },
+    {
+      "id": "c2222222-cccc-2222-cccc-222222222222",
+      "title": "Secuencia revitalizante sencilla para las mañanas",
+      "details": "Activa tu cuerpo suavemente con una rutina que mejora la movilidad general y despierta el cuerpo para el día.",
+      "category": "yoga",
+      "state": "planned",
+      "colorTag": "purple",
+      "date": "2025-10-15T10:00:00Z",
+      "durationMinutes": 9,
+      "locationName": "",
+      "geo": null,
+      "tags": ["movilidad", "despertar", "principiante"],
+      "participants": [],
+      "links": {
+        "website": "",
+        "youtube": "",
+        "image": "https://raw.githubusercontent.com/eastudillo3-a11y/entrenos-ucam/refs/heads/main/images/yoga-002.jpg"
+      },
+      "properties": [
+        { "name": "nivel", "value": "Principiante" },
+        { "name": "material", "value": "Ninguno" }
+      ]
+    },
+    {
+      "id": "c3333333-cccc-3333-cccc-333333333333",
+      "title": "Flow fuerza vinyasa",
+      "details": "Una sesión fluida que combina fuerza, equilibrio y control corporal para mejorar tanto tu postura como tu energía.",
+      "category": "yoga",
+      "state": "planned",
+      "colorTag": "purple",
+      "date": "2025-10-18T10:00:00Z",
+      "durationMinutes": 35,
+      "locationName": "",
+      "geo": null,
+      "tags": ["vinyasa", "equilibrio", "estabilidad", "core"],
+      "participants": [],
+      "links": {
+        "website": "",
+        "youtube": "",
+        "image": "https://raw.githubusercontent.com/eastudillo3-a11y/entrenos-ucam/refs/heads/main/images/yoga-003.jpg"
+      },
+      "properties": [
+        { "name": "nivel", "value": "Principiante" },
+        { "name": "material", "value": "Sin equipamiento" }
+      ]
+    },
+    {
+      "id": "c4444444-cccc-4444-cccc-444444444444",
+      "title": "5 minutos de yoga para runners: estiramientos para calentar",
+      "details": "Una secuencia rápida ideal antes de correr para activar piernas, caderas y movilidad general del tren inferior.",
+      "category": "yoga",
+      "state": "planned",
+      "colorTag": "purple",
+      "date": "2025-10-21T10:00:00Z",
+      "durationMinutes": 6,
+      "locationName": "",
+      "geo": null,
+      "tags": ["calentamiento", "movilidad", "piernas"],
+      "participants": [],
+      "links": {
+        "website": "",
+        "youtube": "",
+        "image": "https://raw.githubusercontent.com/eastudillo3-a11y/entrenos-ucam/refs/heads/main/images/yoga-004.jpg"
+      },
+      "properties": [
+        { "name": "nivel", "value": "Principiante" },
+        { "name": "material", "value": "Ninguno (esterilla opcional)" }
+      ]
+    },
+    {
+      "id": "c5555555-cccc-5555-cccc-555555555555",
+      "title": "Taller de flexiones de espalda",
+      "details": "Una sesión enfocada en mejorar la movilidad de columna y la flexibilidad del tronco mediante torsiones suaves y controladas.",
+      "category": "yoga",
+      "state": "planned",
+      "colorTag": "purple",
+      "date": "2025-10-24T10:00:00Z",
+      "durationMinutes": 17,
+      "locationName": "",
+      "geo": null,
+      "tags": ["columna", "flexibilidad", "intermedio"],
+      "participants": [],
+      "links": {
+        "website": "",
+        "youtube": "",
+        "image": "https://raw.githubusercontent.com/eastudillo3-a11y/entrenos-ucam/refs/heads/main/images/yoga-005.jpg"
+      },
+      "properties": [
+        { "name": "nivel", "value": "Intermedio" },
+        { "name": "material", "value": "Ninguno" }
+      ]
+    }
+  ]
+}
+
 
